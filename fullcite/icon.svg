@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="16" ry="16" fill="#f9f9f9"/>
+  <path d="M32 32v64a4 4 0 005.2 3.8l24.8-8.3 24.8 8.3A4 4 0 00100 96V32a4 4 0 00-4-4H36a4 4 0 00-4 4zm4 0h60v58.2l-24-8a4 4 0 00-2.7 0l-33.3 11V32z" fill="#0c4a6e"/>
+  <text x="64" y="112" font-size="14" font-family="Georgia, serif" text-anchor="middle" fill="#333">Fullcite</text>
+</svg>

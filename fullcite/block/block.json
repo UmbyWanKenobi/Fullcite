@@ -1,0 +1,21 @@
+{
+  "apiVersion": 2,
+  "name": "fullcite/block",
+  "title": "Fullcite Citazione",
+  "category": "widgets",
+  "icon": "book-alt",
+  "description": "Inserisce una citazione con stile selezionabile e icona libro.",
+  "attributes": {
+    "author": { "type": "string" },
+    "title": { "type": "string" },
+    "date": { "type": "string" },
+    "location": { "type": "string" },
+    "uri": { "type": "string" },
+    "style": { "type": "string", "default": "chicago" },
+    "showIcon": { "type": "boolean", "default": true },
+    "showBibtex": { "type": "boolean", "default": true },
+    "showCSL": { "type": "boolean", "default": false }
+  },
+  "editorScript": "file:./edit.js",
+  "style": "file:./style.scss"
+}
